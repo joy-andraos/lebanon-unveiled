@@ -20,7 +20,7 @@ For the admins of the websites:
 
   -Add, update, display and delete places 
   
-  -To access the admin pannel, log in with username "admin" and password "123"
+  -To access the admin pannel, log in with username "admin" and password "123". Make sure to add the pictures you want to upload to the uploadImage folder first.
   
 # Technologies used
 -HTML: for the structure and content of the page
