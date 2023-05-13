@@ -45,4 +45,6 @@ For the admins of the websites:
 
 -Display a modal on a click on a card to see more pictures and details
 
+-Add a "send message" option to allow users to send suggestions of places to add 
+
 -Add more locations to the database of course
