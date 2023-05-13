@@ -37,6 +37,8 @@ For the admins of the websites:
 
 -PHP: was used to retrieve data from the database for the cards and for the login / signup pages
 
+-JSON: was used to parse the data from mysql as a JSON object to make easier the storing and manipulation of the data
+
 
 # Future Improvements
 -Add a favorite button to save and access your favorite cards from an album
